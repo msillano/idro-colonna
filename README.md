@@ -1,6 +1,8 @@
 # idro-colonna
 Colonna per idroponica verticale, DIY con materiali riciclati.
 
+[IMG]images/IMG_0274.JPG[/IMG]
+
 (only Italian version)
 
 Tra le varie tipologie di culture idroponiche, la soluzione verticale mi ha subito attirato, sia per la cronica carenza di spazio in città, sia per le potenzialità estetiche e funzionali: creazioni di cortine frangisole, normalmente realizzate con graticci di legno, etc.
