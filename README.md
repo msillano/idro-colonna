@@ -1,7 +1,7 @@
 # idro-colonna
 Colonna per idroponica verticale, DIY con materiali riciclati.
 
-[IMG]images/IMG_0274.JPG[/IMG]
+![insalata riccia invernale](images/IMG_0274.JPG)
 
 (only Italian version)
 
